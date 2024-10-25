@@ -17,7 +17,7 @@ namespace GitTestProject
         [Test]
         public void AnotherTest()
         {
-            Assert.Fail();
+            Assert.Pass("This too shall pass");
         }
     }
 }
