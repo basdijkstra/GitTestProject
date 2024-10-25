@@ -13,5 +13,11 @@ namespace GitTestProject
         {
             Assert.Pass();
         }
+
+        [Test]
+        public void AnotherTest()
+        {
+            Assert.Fail();
+        }
     }
 }
