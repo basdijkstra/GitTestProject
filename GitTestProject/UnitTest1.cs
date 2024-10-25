@@ -5,7 +5,7 @@ namespace GitTestProject
         [SetUp]
         public void Setup()
         {
-            // S o mething
+            // S omething
         }
 
         [Test]
